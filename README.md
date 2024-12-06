@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://gitmystat.vercel.app/user?theme=gold&username=shamak24&show_icons=true&locale=en" alt="shamak24" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamak24&" alt="shamak24" /></p>
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app?user=shamak24&theme=shadow-brown&hide_border=true&" alt="shamak24" /></p>

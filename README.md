@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Soumil Shamak</h1>
-<h3 align="center">Full Stack Web Developer from India</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamak24&label=Profile%20views&color=0e75b6&style=flat" alt="shamak24" /> </p>
 
-- 🌱 I’m currently learning **Django Framework**
-
-- 👨‍💻 I am currently working on a project **TechCompass**
+- 🌱 I’m currently learning **Flutter Framework for Android Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

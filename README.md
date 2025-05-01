@@ -1,22 +1,66 @@
-<h1 align="center">Hi 👋, I'm Soumil Shamak</h1>
-<h3 align="center">Full Stack Web Developer</h3>
-
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamak24&label=Profile%20views&color=0e75b6&style=flat" alt="shamak24" /> </p>
-
-- 🌱 I’m currently learning **Flutter Framework for Android Development**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/soumil-shamak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumil shamak" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rishitroyr2535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishitroyr2535" height="30" width="40" /></a>
+<!-- Header Image -->
+<p align="center" style="background-color:#040505; padding: 10px;">
+    <img src="./github-header.png" alt="Header" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div style="background-color:#040505; color:#c9d1d9; padding:25px;">
 
-<p><img align="center" src="https://gitmystat.vercel.app/user?theme=dark&username=shamak24&color=0xBB9863&border=0x0D1116&show_icons=true&locale=en" alt="shamak24" /></p>
-<img align="center" alt="coding" height="500px width="100%" src="https://media.tenor.com/o-wNCEq_6f0AAAAM/pompo-the-cinephile-typing-fast.gif">
+<ul>
+  <li>  
+    <p>A <b>Computer Science and Engineering</b> student from <b>Vellore Institute of Technology</b>, Bhopal with a passion for <b>Full Stack Development</b> and <b>Artificial Intelligence</b>.</p>
+  </li>
+  <li>
+    <p>Beyond coding, I'm committed to continuous learning and enjoy tackling real-world problems through tech. My expertise spans <b>Django</b>, <b>HTML</b>, <b>CSS</b>, <b>Bootstrap</b>,<b>JavaScript</b>,<b>Git</b> and <b>REST APIs</b>. I'm also diving into Machine Learning and starting my journey with Flutter for the cross-platform app. I'm also exploring other tech stacks like MERN.</p>
+  </li>
+  <li>
+    <p>If you're interested in collaborating, feel free to <a href="https://www.linkedin.com/in/soumil-shamak" target="_blank">connect!</a>📥</p>
+  </li>
+</ul>
+<p align="center"> <img height="30px" src="https://komarev.com/ghpvc/?username=shamak24&label=Profile%20views&color=883edf&style=for-the-badge&abbreviated=true" alt="soumil-shamak" /> </p>
+<br>
 
-<p><img align="center" src="https://nirzak-streak-stats.vercel.app?user=shamak24&theme=shadow-brown&hide_border=true&" alt="shamak24" /></p>
+[![Tech Stacks](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=40&duration=4000&pause=5000&color=883EDF&width=435&height=60&lines=%F0%9F%A7%B0+Tech+Stacks)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css,bootstrap,tailwind,django,git,github,figma,mysql,postgres,sqlite,dart,flutter,vscode,idea,yarn,vercel,matlab,jquery,gcp&perline=12" />
+  </a>
+</p>
+<br>
+
+[![Connect with Me](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=40&duration=4000&pause=5000&color=883EDF&width=435&height=70&lines=%F0%9F%94%97+Connect+with+Me)](https://git.io/typing-svg)
+
+<p align="center">
+    <a href="https://linkedin.com/in/soumil-shamak" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+    <a href="https://leetcode.com/u/rishitroyr2535/" target="_blank"><img alt="leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+    <a href="https://www.geeksforgeeks.org/user/rishitroqcix/" target="_blank"><img alt="geeksforgeeks" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+    <a href="https://www.hackerrank.com/profile/rishitroyr2535" target="_blank"><img alt="hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+</p>
+<br>
+
+[![Github Analytics](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=40&duration=4000&pause=5000&color=883EDF&width=435&height=70&lines=%F0%9F%93%88+GitHub+Analytics)](https://git.io/typing-svg)
+
+<table width="100%" align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=shamak24&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="95%" alt="Soumil's Github Stats" />
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamak24&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width="95%" alt="Top Languages" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamak24&theme=midnight-purple&hide_border=true" width="100%" alt="Soumil's GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Footer -->
+<p align="center" style="background-color:#0d1117; padding:20px;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=883edf&reversal=false&section=footer&animation=fadeIn&descAlign=76"/>
+</p>
+
+</div>

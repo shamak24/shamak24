@@ -42,13 +42,13 @@
 <table width="100%" align="center">
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=shamak24&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="95%" alt="Soumil's Github Stats" />
+      <img src="https://github-readme-stats-kv.vercel.app/api?username=shamak24&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true" width="95%" alt="Soumil's Github Stats" />
     </td>
   </tr>
   
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamak24&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width="95%" alt="Top Languages" />
+      <img src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=shamak24&show_icons=true&theme=midnight-purple&locale=en&layout=compact&hide_border=true" width="95%" alt="Top Languages" />
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamak24&theme=midnight-purple&hide_border=true" width="100%" alt="Soumil's GitHub Streak" />

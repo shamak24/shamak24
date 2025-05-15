@@ -22,7 +22,7 @@
 [![Tech Stacks](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=40&duration=4000&pause=5000&color=883EDF&width=435&height=60&lines=%F0%9F%A7%B0+Tech+Stacks)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css,bootstrap,tailwind,django,git,github,figma,mysql,postgres,sqlite,dart,flutter,vscode,idea,yarn,vercel,matlab,jquery,gcp&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css,bootstrap,tailwind,django,git,github,figma,mysql,npm,nodejs,vite,postgres,react,express,sqlite,dart,flutter,vscode,idea,yarn,bun,vercel,matlab,jquery,gcp&perline=12" />
   </a>
 </p>
 <br>

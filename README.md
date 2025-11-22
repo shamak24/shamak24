@@ -7,10 +7,19 @@
 
 <ul>
   <li>  
-    <p>Hey👋! I'm <b>Soumil Shamak</b> a <b>Computer Science and Engineering</b> student from <b>Vellore Institute of Technology</b>, Bhopal with a passion for <b>Full Stack Development</b> and <b>Artificial Intelligence</b>.</p>
+    <p>Hey👋! I'm <b>Soumil Shamak</b> a <b>Computer Science and Engineering</b> student from <b>Vellore Institute of Technology</b>, Bhopal with a strong focus on software development and data-driven problem-solving. I specialize in building modern web and mobile applications, along with exploring insights through data analytics.</p>
   </li>
   <li>
-    <p>Beyond coding, I'm committed to continuous learning and enjoy tackling real-world problems through tech. My expertise spans <b>Django</b>, <b>HTML</b>, <b>CSS</b>, <b>Bootstrap</b>,<b>JavaScript</b>,<b>Git</b> and <b>REST APIs</b>. I'm also diving into Machine Learning and starting my journey with Flutter for the cross-platform app. I'm also exploring other tech stacks like MERN.</p>
+    <p>As a full-stack web developer, I work across technologies such as Python & JavaScript frameworks enabling me to build scalable backend systems and intuitive frontend experiences.</p>
+  </li>
+  <li>
+      <p>I’m also a Flutter mobile developer, currently contributing as a Mobile Developer at the Mozilla Firefox Club of my college, where I collaborate on community projects and open-source initiatives.</p>
+  </li>
+  <li>
+      <p>Beyond development, I have experience in data analytics, including exploratory data analysis (EDA), data manipulation, and data exploration, which helps me integrate data-driven thinking into my projects.</p>
+  </li>
+  <li>
+      <p>I’m passionate about continuous learning, building real-world applications, and growing as a versatile developer across multiple domains.</p>
   </li>
   <li>
     <p>If you're interested in collaborating, feel free to <a href="https://www.linkedin.com/in/soumil-shamak" target="_blank">connect!</a>📥</p>
